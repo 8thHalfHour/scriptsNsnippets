@@ -1,2 +1,2 @@
-# sNs2
+# scriptsNsnippets
 Collections of scripts
